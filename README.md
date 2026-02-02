@@ -223,6 +223,12 @@ See Supplementary Text S1 for complete tables and methodology.
 
 ## Contact & Support
 
+For questions or issues related to this code, please contact:
+
+- **Corresponding Author**: [Fei Li] ([lifei@swpu.edu.cn])
+- **Code Developer**: [Fei Li; Code development assisted by large language models Claude and Gemini
+for optimization and documentation] ([lifei@swpu.edu.cn])
+
 For questions or issues related to this code:
 - Check the troubleshooting section above
 - Refer to Supplementary Text S1 for detailed methodology
