@@ -1,5 +1,5 @@
 # Pixel-by-Pixel Adaptive Phase-Specific Normalization (PP-APSN)
-# Supplementary Code for LA-ICP-MS Data Processing
+# Supplementary Code for LA-ICP-TOF-MS Data Processing
 
 ## Overview
 
