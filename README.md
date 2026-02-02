@@ -232,7 +232,7 @@ for optimization and documentation] ([lifei@swpu.edu.cn])
 For questions or issues related to this code:
 - Check the troubleshooting section above
 - Refer to Supplementary Text S1 for detailed methodology
-- Contact the corresponding author (see manuscript)
+- Contact the corresponding author
 
 ---
 
